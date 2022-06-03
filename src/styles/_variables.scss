@@ -1,0 +1,63 @@
+/*Font Families*/
+
+$roboto: 'Roboto',
+'san-serif';
+$roboto-regular: 'Roboto-Regular',
+'san-serif';
+$roboto-medium: 'Roboto-Medium',
+'san-serif';
+$roboto-Bold: 'Roboto-Bold',
+'san-serif';
+// ********************
+// **** COLORS ****
+// ********************
+:root {
+    /* background */
+    --background-gray: #e5e5e5;
+    --dashed-gray: #d6d6d6;
+    /* primary */
+    --primary-white: #ffffff;
+    --primary-midnigth-600: #0040a8;
+    /* secondary */
+    --secondary-sunglow-500: #fdc130;
+    --secondary-mindnigth-900: #002c76;
+    --secondary-mindnigth-800: #0040A8;
+    --secondary-mindnigth-600: #5C8BCC;
+    --secondary-mindnigth-400: #b8cfeb;
+    --secondary-mindnigth-200: #e6eff8;
+    --secondary-mindnigth-50: #f6f8fa;
+    /* grises */
+    --gray-carbon-900: #333333;
+    --gray-carbon-800: #5c5c5c;
+    --gray-carbon-600: #858585;
+    --gray-carbon-400: #adadad;
+    --gray-carbon-200: #e3e3e3;
+    --gray-carbon-50: #f5f5f5;
+    /* semantic  */
+    --success-800: #2b770f;
+    --success-500: #60cc4d;
+    --success-100: #ebffe0;
+    --error-800: #9f211b;
+    --error-500: #f23a31;
+    --error-100: #ffe9e8;
+    --warning-800: #c76905;
+    --warning-500: #f69b31;
+    --warning-100: #fff0e0;
+    --info-800: #004c97;
+    --info-500: #1c83e1;
+    --info-100: #e3f3ff;
+    /* extended */
+    --sunglow-800: #bf8c12;
+    --sunglow-500: #fdc130;
+    --sunglow-100: #fdc130;
+    --olive-800: #40640e;
+    --olive-500: #75ae2a;
+    --olive-100: #ebfad7;
+    --scooter-800: #1c7981;
+    --scooter-500: #40b2bd;
+    --scooter-100: #e6fdff;
+    --bouquet-800: #712562;
+    --bouquet-500: #b057a0;
+    --bouquet-100: #ffe3fa;
+    --transparent: transparent;
+}

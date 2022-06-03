@@ -1,0 +1,31 @@
+.container-carousel {
+    width: 344px;
+    height: auto;
+    order: 2
+}
+
+.img-carousel {
+    max-height: 230px;
+    object-fit: cover;
+}
+
+@media (min-width: 600px) {
+    .container-carousel {
+        width: 800px;
+    }
+    .img-carousel {
+        max-height: 500px;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container-carousel {
+        width: 800px;
+        order: 1;
+    }
+    .img-carousel {
+        max-height: 500px;
+        object-fit: cover;
+    }
+}
